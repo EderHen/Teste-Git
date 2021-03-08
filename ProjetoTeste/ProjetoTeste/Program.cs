@@ -7,8 +7,8 @@ namespace ProjetoTeste
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Bom dia!");
             Console.WriteLine("How are you in this day?");
+            Console.WriteLine("Have a good day!");
 
             Console.WriteLine();
         }
