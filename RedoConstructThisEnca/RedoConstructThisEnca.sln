@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedoConstructThisEnca", "RedoConstructThisEnca\RedoConstructThisEnca.csproj", "{A17C3C61-6E1C-4947-9089-00532EA77F6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A17C3C61-6E1C-4947-9089-00532EA77F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A17C3C61-6E1C-4947-9089-00532EA77F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A17C3C61-6E1C-4947-9089-00532EA77F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A17C3C61-6E1C-4947-9089-00532EA77F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AF631ED-DEE2-4F93-8D55-9E9708152C7F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iniciomatriz_diagonal_negativos", "iniciomatriz_diagonal_negativos\iniciomatriz_diagonal_negativos.csproj", "{CF705119-2BE0-46AF-9907-438357A6A665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF705119-2BE0-46AF-9907-438357A6A665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF705119-2BE0-46AF-9907-438357A6A665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF705119-2BE0-46AF-9907-438357A6A665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF705119-2BE0-46AF-9907-438357A6A665}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BD199D1-C518-4FB9-B571-B4EC3F8C7831}
+	EndGlobalSection
+EndGlobal
